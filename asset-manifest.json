@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.801b6969.chunk.css",
+    "main.js": "/static/js/main.f370ab9b.chunk.js",
+    "main.js.map": "/static/js/main.f370ab9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72b3fb2b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72b3fb2b.js.map",
+    "static/js/2.d83845e2.chunk.js": "/static/js/2.d83845e2.chunk.js",
+    "static/js/2.d83845e2.chunk.js.map": "/static/js/2.d83845e2.chunk.js.map",
+    "static/js/3.07220fcc.chunk.js": "/static/js/3.07220fcc.chunk.js",
+    "static/js/3.07220fcc.chunk.js.map": "/static/js/3.07220fcc.chunk.js.map",
+    "static/js/4.972fda53.chunk.js": "/static/js/4.972fda53.chunk.js",
+    "static/js/4.972fda53.chunk.js.map": "/static/js/4.972fda53.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.801b6969.chunk.css.map": "/static/css/main.801b6969.chunk.css.map",
+    "static/js/2.d83845e2.chunk.js.LICENSE.txt": "/static/js/2.d83845e2.chunk.js.LICENSE.txt",
+    "static/js/3.07220fcc.chunk.js.LICENSE.txt": "/static/js/3.07220fcc.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/VisueltPro-ThinItalic.a919d0cb.woff2",
+    "static/media/style.css": "/static/media/main_bg_mob.dcb3f7c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b3fb2b.js",
+    "static/js/2.d83845e2.chunk.js",
+    "static/css/main.801b6969.chunk.css",
+    "static/js/main.f370ab9b.chunk.js"
+  ]
+}
